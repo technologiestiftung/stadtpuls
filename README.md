@@ -1,3 +1,26 @@
+# English
+
+# Stadtpuls
+This is a meta repository for the Stadtpuls project: [Stadtpuls.com](https://www.stadtpuls.com)
+
+## Feedback
+Do you have ideas or wishes how to improve Stadtpuls? Let us know in the discussions section of this repository: [github.com/technologiestiftung/stadtpuls/discussions](https://github.com/technologiestiftung/stadtpuls/discussions)
+
+## Bugs
+The Stadtpuls project is still in its early days and therefore bugs and little problems are more than likely. Please be patient with us while we work feverishly on making this project the best IoT website of Berlin. If you encounter any bugs or problems, little or big, let us know in the issues section of this repository:  [github.com/technologiestiftung/stadtpuls/discussions](https://github.com/technologiestiftung/stadtpuls/discussions)
+
+## Other related repositories
+- [Stadtpuls Frontend](https://github.com/technologiestiftung/stadtpuls-frontend)
+- [Stadtpuls API](https://github.com/technologiestiftung/stadtpuls-api)
+- [Stadtpuls Stories Templates](https://github.com/technologiestiftung/stadtpuls-story-template)
+- [Stadtpuls Sensor Data](https://github.com/technologiestiftung/stadtpuls-sensors)
+
+Thank you for using Stadtpuls and have fun!
+
+
+
+# Deutsch
+
 # Stadtpuls
 Dies ist ein Meta-Repository für das Projekt [Stadtpuls.com](https://www.stadtpuls.com)
 
