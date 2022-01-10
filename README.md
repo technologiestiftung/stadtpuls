@@ -14,6 +14,7 @@ The Stadtpuls project is still in its early days and therefore bugs and little p
 - [Stadtpuls API](https://github.com/technologiestiftung/stadtpuls-api)
 - [Stadtpuls Stories Templates](https://github.com/technologiestiftung/stadtpuls-story-template)
 - [Stadtpuls Sensor Data](https://github.com/technologiestiftung/stadtpuls-sensors)
+- [Stadtpuls Maintenance Page](https://github.com/technologiestiftung/stadtpuls-maintenance-page)
 
 Thank you for using Stadtpuls and have fun!
 
@@ -35,6 +36,6 @@ Da Stadtpuls noch ganz am Anfang steht, sind kleinere und größere Fehler und P
 - [Stadtpuls API](https://github.com/technologiestiftung/stadtpuls-api)
 - [Stadtpuls Stories Templates](https://github.com/technologiestiftung/stadtpuls-story-template)
 - [Stadtpuls Sensor Data](https://github.com/technologiestiftung/stadtpuls-sensors)
-- [Stadtpuls Maintenance Page](https://github.com/technologiestiftung/stadtpuls-maintenance-page)
+- [Stadtpuls Wartungsseite](https://github.com/technologiestiftung/stadtpuls-maintenance-page)
 
 Viel Spaß bei der Nutzung von Stadtpuls!
