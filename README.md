@@ -1,6 +1,10 @@
-# English
+![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue)
 
 # Stadtpuls
+
+---
+
+# English
 This is a meta repository for the Stadtpuls project: [Stadtpuls.com](https://www.stadtpuls.com)
 
 ## Feedback
@@ -19,10 +23,9 @@ The Stadtpuls project is still in its early days and therefore bugs and little p
 Thank you for using Stadtpuls and have fun!
 
 
+---
 
 # Deutsch
-
-# Stadtpuls
 Dies ist ein Meta-Repository für das Projekt [Stadtpuls.com](https://www.stadtpuls.com)
 
 ## Feedback
