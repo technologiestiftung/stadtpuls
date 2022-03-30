@@ -73,7 +73,7 @@ Da Stadtpuls noch ganz am Anfang steht, sind kleinere und größere Fehler und P
 Viel Spaß bei der Nutzung von Stadtpuls!
 
 
-## Kredite
+## Credits
 
 <table>
   <tr>
